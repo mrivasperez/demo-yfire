@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^10.14.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "y-fire": "^2.0.0",
+    "y-protocols": "^1.0.6",
+    "yjs": "^13.6.19"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
